@@ -19,8 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-This license covers the documentation and example configuration files in this
-repository. It does not cover the AppTrendKit name or logo, the hosted MCP
-server, or the data it returns, which are subject to the AppTrendKit terms:
-https://www.apptrendkit.com/terms
