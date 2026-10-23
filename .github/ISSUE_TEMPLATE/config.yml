@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: AppTrendKit support
+    url: https://www.apptrendkit.com/support
+    about: Account, billing or questions about the website.
+  - name: Security report
+    url: mailto:support@apptrendkit.com
+    about: Please report security issues privately by email.

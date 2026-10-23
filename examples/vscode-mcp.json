@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "apptrendkit": {
+      "type": "http",
+      "url": "https://www.apptrendkit.com/mcp"
+    }
+  }
+}

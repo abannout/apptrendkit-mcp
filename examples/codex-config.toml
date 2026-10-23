@@ -1,0 +1,3 @@
+# ~/.codex/config.toml
+[mcp_servers.apptrendkit]
+url = "https://www.apptrendkit.com/mcp"

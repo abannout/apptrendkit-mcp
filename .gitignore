@@ -1,0 +1,6 @@
+# MCP Registry signing key (mcp-publisher login dns): never commit it.
+key.pem
+*.pem
+.mcpregistry_*
+.DS_Store
+Thumbs.db
